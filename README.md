@@ -1,6 +1,6 @@
 # Jessica Johnson - Software Engineering Portfolio
 
-Computer Science student at Southern New Hampshire University
+Computer Science student at Southern New Hampshire University  
 Expected Graduation: May 2026
 
 My coursework has allowed me to build projects across multiple areas of computer science including software engineering, data structures, secure coding, artificial intelligence, and full-stack development.
@@ -13,16 +13,17 @@ I enjoy understanding how systems work behind the scenes and building applicatio
 
 ### Abducted by Earthlings - Python Text Adventure
 
-A text-based game created while learning Python fundamentals.
+A text-based adventure game created while learning Python fundamentals.
 
 Skills demonstrated:
 
-* Python programming
-* loops and conditional logic
-* user input handling
-* branching story design
+- Python programming
+- Loops and conditional logic
+- User input handling
+- Branching story design
 
-Repository: Python-Text-Based-Game
+Repository:  
+https://github.com/DevOpsWithJess/Python-Text-Based-Game
 
 ---
 
@@ -32,12 +33,13 @@ Console application that loads, displays, and searches course data using hash ta
 
 Skills demonstrated:
 
-* C++
-* file parsing
-* data structures
-* algorithmic thinking
+- C++ programming
+- File parsing and CSV processing
+- Data structures
+- Algorithmic thinking
 
-Repository: ABC-University-Course-Planner
+Repository:  
+https://github.com/DevOpsWithJess/ABC-University-Course-Planner
 
 ---
 
@@ -47,12 +49,13 @@ Implementation and analysis of several data structures used to organize and sear
 
 Skills demonstrated:
 
-* binary search trees
-* hash tables
-* algorithm efficiency
-* C++ programming
+- Binary search trees
+- Hash tables
+- Algorithm efficiency and complexity
+- C++ programming
 
-Repository: CS-300-Data-Structures-and-Algorithms
+Repository:  
+https://github.com/DevOpsWithJess/CS-300-Data-Structures-and-Algorithms
 
 ---
 
@@ -62,28 +65,37 @@ Project focused on secure coding practices including hashing, encryption concept
 
 Skills demonstrated:
 
-* SHA-256 hashing
-* secure coding principles
-* software vulnerability analysis
+- SHA-256 hashing
+- Secure coding principles
+- Software vulnerability analysis
 
-Repository: CS-305-Software-Security
+Repository:  
+https://github.com/DevOpsWithJess/CS-305-Software-Security
 
 ---
 
 ## Technologies Used
 
-Programming Languages
+### Programming Languages
 Python | C++ | Java | SQL | JavaScript
 
-Concepts
+### Concepts
 Data Structures | Secure Coding | Software Development Lifecycle | Systems Design
 
-Tools
+### Tools
 GitHub | Visual Studio | Android Studio | MongoDB | Node.js
+
+---
+
+## Currently Learning
+
+- Full Stack Web Development
 
 ---
 
 ## Contact
 
 Kansas City Area
-Email: [jesserq85@gmail.com](mailto:jesserq85@gmail.com)
+
+Email:  
+[jesserq85@gmail.com](mailto:jesserq85@gmail.com)
