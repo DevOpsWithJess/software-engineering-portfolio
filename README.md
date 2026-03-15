@@ -45,7 +45,7 @@ https://github.com/DevOpsWithJess/ABC-University-Course-Planner
 
 ### Data Structures and Algorithms
 
-Implementation and analysis of several data structures used to organize and search course information.
+Implementation and analysis of core data structures used to organize and search course information.
 
 Skills demonstrated:
 
@@ -55,22 +55,56 @@ Skills demonstrated:
 - C++ programming
 
 Repository:  
-https://github.com/DevOpsWithJess/CS-300-Data-Structures-and-Algorithms
+https://github.com/DevOpsWithJess/Data-Structures-and-Algorithms-cpp
 
 ---
 
-### Software Security
+### Secure Coding and Hashing
 
 Project focused on secure coding practices including hashing, encryption concepts, and vulnerability analysis.
 
 Skills demonstrated:
 
 - SHA-256 hashing
+- HTTPS encryption
 - Secure coding principles
 - Software vulnerability analysis
 
 Repository:  
-https://github.com/DevOpsWithJess/CS-305-Software-Security
+https://github.com/DevOpsWithJess/Secure-Coding-and-Hashing
+
+---
+
+### Agile Software Development Lifecycle
+
+Project exploring Agile software development practices including sprint planning, user stories, and retrospective analysis.
+
+Skills demonstrated:
+
+- Agile methodology
+- Software Development Lifecycle (SDLC)
+- Sprint planning
+- Retrospective analysis
+- Team collaboration concepts
+
+Repository:  
+https://github.com/DevOpsWithJess/Agile-Software-Development-Lifecycle
+
+---
+
+### System Analysis and Design
+
+System design project focused on requirements analysis, UML modeling, and structured software planning.
+
+Skills demonstrated:
+
+- Requirements analysis
+- UML system modeling
+- System architecture planning
+- Stakeholder needs analysis
+
+Repository:  
+https://github.com/DevOpsWithJess/System-Analysis-and-Design
 
 ---
 
@@ -80,7 +114,7 @@ https://github.com/DevOpsWithJess/CS-305-Software-Security
 Python | C++ | Java | SQL | JavaScript
 
 ### Concepts
-Data Structures | Secure Coding | Software Development Lifecycle | Systems Design
+Data Structures | Secure Coding | Software Development Lifecycle | Systems Design | Agile Development
 
 ### Tools
 GitHub | Visual Studio | Android Studio | MongoDB | Node.js
@@ -90,6 +124,8 @@ GitHub | Visual Studio | Android Studio | MongoDB | Node.js
 ## Currently Learning
 
 - Full Stack Web Development
+- Artificial Intelligence and Reinforcement Learning
+- Secure Software Design
 
 ---
 
